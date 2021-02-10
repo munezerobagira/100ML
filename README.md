@@ -1,10 +1,10 @@
 # Mean
 
-Mean is the average
+Mean is the average of elements
 
 # Median
 
-Median is middle element for odd number of element or average of middle element for the the even number of element
+Median is middle element for odd number of elements or average of 2 middle elements for the the even number of elements
 
 # MODE
 
